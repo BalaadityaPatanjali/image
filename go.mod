@@ -141,4 +141,4 @@ require (
 	gotest.tools/v3 v3.5.1 // indirect
 )
 
-replace github.com/containers/image => github.com/BalaadityaPatanjali/image/v5 v0.0.0-20240728000000-9321544f2599
+replace github.com/containers/image/v5 => github.com/BalaadityaPatanjali/image/v5 v0.0.0-20240728000000-9321544f2599
