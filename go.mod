@@ -140,5 +140,3 @@ require (
 	google.golang.org/protobuf v1.33.0 // indirect
 	gotest.tools/v3 v3.5.1 // indirect
 )
-
-replace github.com/containers/image/v5 => github.com/BalaadityaPatanjali/image/v5 v0.0.0-20240728000000-9321544f2599
